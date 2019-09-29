@@ -1,6 +1,10 @@
 # scala-vscode-example
 
-Простой пример Scala проекта, настроенный на работу с Metals + VSCode.
+<p align="center">
+<img src="https://habrastorage.org/webt/ud/yh/jp/udyhjpz93gmj1miboy94qfnquug.png"/>
+</p>
+
+Простой пример Scala проекта, настроенный на работу с Metals + VSCode. Процесс установки и настройки Metals подробно описан в [этой статье на Хабре](https://habr.com/ru/sandbox/133255/).
 
 Создание проекта осуществляется командой:
 
